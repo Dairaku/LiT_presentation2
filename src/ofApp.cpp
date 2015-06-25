@@ -54,7 +54,7 @@ void ofApp::setup(){
     bdrawimage =false;
     bdrawtitle = false;
     
-    mySound.loadSound("sample.mp3"); //サウンドファイルの読込み
+    mySound.loadSound("sample1.mp3"); //サウンドファイルの読込み
     mySound.setLoop(true); //ループ再生をONに
     mySound.play(); //サウンド再生開始
     
